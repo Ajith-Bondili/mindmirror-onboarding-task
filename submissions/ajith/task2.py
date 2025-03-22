@@ -1,3 +1,6 @@
+# Name: Ajith
+# Waterloo Username: abondili
+
 from transformers import pipeline
 from preprocessing import preprocess_text, load_journal_entries
 
