@@ -1,4 +1,4 @@
-# MindMirror Onboarding Assignment: AI Prototype Development
+# MindMirror Onboarding Assignment
 
 ## Introduction
 
