@@ -1,0 +1,95 @@
+### Entry::
+Today was incredibly productive! I finished the quarterly report two days ahead of schedule, and my boss was really impressed. Had a nice lunch with colleagues where we brainstormed some exciting new project ideas. Coming home, I managed to squeeze in a 5K run, breaking my personal record. Feeling accomplished and energized!
+
+BAD
+Why BAD: The summary is almost identical to the original entry, failing to condense the information or highlight the most important aspects. It doesn't provide a concise overview, defeating the purpose of summarization. Key points are retained, but there's no summarization.
+
+### Generated Summary:
+Today was incredibly productive! I finished the quarterly report two days ahead of schedule. Had a nice lunch with colleagues where we brainstormed some exciting new project ideas. Coming home, I managed to squeeze in a 5K run, breaking my personal record. Feeling accomplished and energized!
+
+### Entry::
+Nothing seems to be going right this week. Got negative feedback on my presentation despite working on it for days. The commute was terrible because of the rain, and I forgot my umbrella. I'm beginning to wonder if I'm really cut out for this job. Missing home and feeling quite lonely in this new city.
+
+
+### Generated Summary:
+Nothing seems to be going right this week. Got negative feedback on my presentation despite working on it for days. The commute was terrible because of the rain. Missing home and feeling quite lonely in this new city.
+
+### Entry::
+Mom and Dad came to visit for the weekend. We had such a wonderful time exploring the city together. Took them to that little Italian restaurant on 5th that I've been wanting to try. Dad enjoyed the pasta so much he asked for the recipe! It's been six months since I've seen them, and I didn't realize how much I missed their company until now.
+
+### Generated Summary:
+Mom and Dad came to visit for the weekend. Took them to that little Italian restaurant on 5th that I've been wanting to try. Dad enjoyed the pasta so much he asked for the recipe!
+
+### Entry::
+Spent the entire day debugging the same issue and made zero progress. I'm so frustrated I could scream! The deadline is approaching, and I feel like I'm letting the team down. Tried to talk to the project manager about extending the timeline, but she wasn't receptive. Going to bed angry and hoping tomorrow brings some breakthrough.
+
+BAD
+Why BAD: The summary focuses solely on the diet aspect, completely omitting the primary event of starting at the gym. Key points are missed, and the emotional tone is partially retained but not representative of the whole entry.
+### Generated Summary:
+"I'm so frustrated I could scream! The deadline is approaching, and I feel like I'm letting the team down" "Tried to talk to the project manager about extending the timeline, but she wasn't receptive"
+
+### Entry::
+Got up. Went to work. Came home. Watched TV. Sleep.
+
+### Generated Summary:
+Text too short for meaningful summarization
+
+### Entry::
+Started my first day at the gym today! The trainer was really supportive and created a beginner's plan for me. My muscles are already sore, but it's a good kind of pain. Also, I've been sticking to my new diet for a week now. Small steps, but I'm proud of taking control of my health finally.
+
+BAD
+Why BAD: While factually accurate, the summary misses the emotional core of feeling thankful for pushing out of the comfort zone. Key points are partially retained, but the emotional tone is lost.
+### Generated Summary:
+"I've been sticking to my new diet for a week now. Small steps, but I'm proud of taking control of my health finally"
+
+### Entry::
+Can't stop worrying about the medical test results that are coming tomorrow. Tried meditation and breathing exercises, but my mind keeps racing to worst-case scenarios. Didn't tell anyone about the tests because I don't want to worry them unnecessarily. But now I'm dealing with this anxiety all alone. Barely ate anything today and couldn't focus at work.
+
+
+### Generated Summary:
+Tried meditation and breathing exercises, but my mind keeps racing to worst-case scenarios. Didn't tell anyone about the tests because I don't want to worry them unnecessarily.
+
+### Entry::
+Went hiking with the group from the community app. Was nervous about meeting strangers, but everyone was incredibly friendly! The trail was moderately difficult but worth it for the spectacular mountain views. We spotted deer and various birds I couldn't identify. Exchanged numbers with a few people who live nearby. Feeling thankful for pushing myself out of my comfort zone.
+
+BAD
+### Generated Summary:
+Went hiking with the group from the community app. Was nervous about meeting strangers, but everyone was incredibly friendly. Trail was moderately difficult but worth it for the spectacular mountain views.
+
+### Entry::
+Another day staring at a blank canvas. This art project is due next week, and I still don't have a clear vision. Starting to doubt my abilities and wondering if I chose the wrong major. Everyone else seems to be progressing with their pieces while I'm stuck in this frustrating loop of ideas that don't translate well onto canvas.
+
+GOOD
+Why GOOD: The summary effectively captures the core theme of creative struggle and self-doubt. Key points are retained, and the emotional tone is preserved.
+### Generated Summary:
+This art project is due next week, and I still don't have a clear vision. Starting to doubt my abilities and wondering if I chose the wrong major.
+
+### Entry::
+It's been exactly one year since I moved to this city. Looking back, I'm amazed at how much has changed. New job, new friends, new apartment. There were definitely tough moments—weeks of loneliness, getting lost on public transport, that disaster of a first date. But overall, I've grown so much. I'm more independent, confident, and clear about what I want in life.
+
+GOOD
+Why GOOD: The summary highlights the transformation and growth achieved over the year. Key points are retained, and the emotional tone is partially preserved.
+### Generated Summary:
+It's been exactly one year since I moved to this city. Looking back, I'm amazed how much has changed. I'm more independent, confident, and clear about what I want in life.
+
+### Entry::
+It's officially been ONE YEAR since I moved to this city! 🏙️ Can't believe how fast time has flown by. Feeling nostalgic today, so I made a little list of highs and lows:
+  • Biggest accomplishments 🏆
+  • Finding an apartment I actually love
+  • Getting promoted at work after only 8 months
+  • Building a social circle from scratch
+  • Learning to navigate public transit like a local
+
+- Challenges I've overcome 💪
+  - Those first two months of crippling loneliness
+  - Getting lost downtown in the rain with a dead phone
+  - That horrible first date with the guy who talked about his ex the ENTIRE time
+  - Figuring out how to file city taxes (still hate this)
+
+* Things I'm grateful for ❤️
+
+GOOD
+Why GOOD: The summary captures the nostalgic reflection and highlights key accomplishments. Key points are retained mainly because there is more content to work with whereas other entries are a couple sentences, and the emotional tone is partially preserved.
+### Generated Summary:
+It's been one year since I moved to this city. Can't believe how fast time has flown by. Biggest accomplishments: Finding an apartment I actually love Getting promoted at work after only 8 months.
+

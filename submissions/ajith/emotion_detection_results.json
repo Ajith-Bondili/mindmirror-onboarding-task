@@ -1,0 +1,72 @@
+[
+  {
+    "journal_entry": "Today was incredibly productive! I finished the quarterly report two days ahead of schedule, and my boss was really impressed. Had a nice lunch with colleagues where we brainstormed some exciting new project ideas. Coming home, I managed to squeeze in a 5K run, breaking my personal record. Feeling accomplished and energized!",
+    "emotions": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "journal_entry": "Nothing seems to be going right this week. Got negative feedback on my presentation despite working on it for days. The commute was terrible because of the rain, and I forgot my umbrella. I'm beginning to wonder if I'm really cut out for this job. Missing home and feeling quite lonely in this new city.",
+    "emotions": [
+      "sadness"
+    ]
+  },
+  {
+    "journal_entry": "Mom and Dad came to visit for the weekend. We had such a wonderful time exploring the city together. Took them to that little Italian restaurant on 5th that I've been wanting to try. Dad enjoyed the pasta so much he asked for the recipe! It's been six months since I've seen them, and I didn't realize how much I missed their company until now.",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "journal_entry": "Spent the entire day debugging the same issue and made zero progress. I'm so frustrated I could scream! The deadline is approaching, and I feel like I'm letting the team down. Tried to talk to the project manager about extending the timeline, but she wasn't receptive. Going to bed angry and hoping tomorrow brings some breakthrough.",
+    "emotions": [
+      "anger"
+    ]
+  },
+
+  {
+    "journal_entry": "Got up. Went to work. Came home. Watched TV. Sleep.",
+    "emotions": [
+      "sadness",
+      "neutral",
+      "surprise"
+    ]
+  },
+  {
+    "journal_entry": "Started my first day at the gym today! The trainer was really supportive and created a beginner's plan for me. My muscles are already sore, but it's a good kind of pain. Also, I've been sticking to my new diet for a week now. Small steps, but I'm proud of taking control of my health finally.",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "journal_entry": "Can't stop worrying about the medical test results that are coming tomorrow. Tried meditation and breathing exercises, but my mind keeps racing to worst-case scenarios. Didn't tell anyone about the tests because I don't want to worry them unnecessarily. But now I'm dealing with this anxiety all alone. Barely ate anything today and couldn't focus at work.",
+    "emotions": [
+      "fear"
+    ]
+  },
+  {
+    "journal_entry": "Went hiking with the group from the community app. Was nervous about meeting strangers, but everyone was incredibly friendly! The trail was moderately difficult but worth it for the spectacular mountain views. We spotted deer and various birds I couldn't identify. Exchanged numbers with a few people who live nearby. Feeling thankful for pushing myself out of my comfort zone.",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "journal_entry": "Another day staring at a blank canvas. This art project is due next week, and I still don't have a clear vision. Starting to doubt my abilities and wondering if I chose the wrong major. Everyone else seems to be progressing with their pieces while I'm stuck in this frustrating loop of ideas that don't translate well onto canvas.",
+    "emotions": [
+      "sadness"
+    ]
+  },
+  {
+    "journal_entry": "It's been exactly one year since I moved to this city. Looking back, I'm amazed at how much has changed. New job, new friends, new apartment. There were definitely tough moments—weeks of loneliness, getting lost on public transport, that disaster of a first date. But overall, I've grown so much. I'm more independent, confident, and clear about what I want in life.",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "journal_entry": "It's officially been ONE YEAR since I moved to this city! 🏙️ Can't believe how fast time has flown by. Feeling nostalgic today, so I made a little list of highs and lows:\n  • Biggest accomplishments 🏆\n  • Finding an apartment I actually love\n  • Getting promoted at work after only 8 months\n  • Building a social circle from scratch\n  • Learning to navigate public transit like a local\n\n- Challenges I've overcome 💪\n  - Those first two months of crippling loneliness\n  - Getting lost downtown in the rain with a dead phone\n  - That horrible first date with the guy who talked about his ex the ENTIRE time\n  - Figuring out how to file city taxes (still hate this)\n\n* Things I'm grateful for ❤️",
+    "emotions": [
+      "sadness"
+    ]
+  }
+]

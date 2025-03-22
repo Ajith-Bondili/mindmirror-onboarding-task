@@ -1,0 +1,21 @@
+Project Reflections: Text Summarization Tasks
+
+Challenges Encountered
+
+Task 2: Text Summarization
+	•	One of the biggest challenges was getting the summaries to be in second-person perspective. Most NLP models simply keep the original voice when summarizing.
+	•	The models tended to focus on the factual content of the entries, often leaving out the emotional tone. Even when I fed in the emotion data from Task 1 as extra context, the models didn’t really pick up on it.
+	•	I tried using a text-to-text generation model to rephrase the summaries into second person, but this approach was like a black box—it made the results unpredictable and hard to control.
+
+Task 1: Emotion Analysis
+	•	Setting the right threshold for emotion detection was tricky and felt a bit arbitrary. I often wondered what the best method would be to decide the threshold and how many emotion labels should be shown for each entry.
+
+Observations
+	•	The Hugging Face pipeline API is super user-friendly, making it surprisingly simple to set up complex NLP tasks.
+	•	My laptop, with only 8GB of RAM, struggled a bit—loading the models and overall workflow took longer than expected.
+	•	There’s a noticeable difference between summarizing straight facts and capturing the emotional subtleties in text, which shows some current limitations of even the advanced language models.
+
+Outcomes
+	•	I learned a lot about the trade-offs between model complexity, accuracy, and the hardware you’re working with.
+	•	I got a better feel for the challenges of embedding emotional intelligence into NLP models.
+	•	I discovered some useful techniques for breaking down text processing tasks into manageable pieces, especially when you’re working with limited computational resources.
