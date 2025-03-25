@@ -1,4 +1,4 @@
-# MindMirror Onboarding Assignment
+# MindMirror Onboarding Assignment 
 
 ## Introduction
 
